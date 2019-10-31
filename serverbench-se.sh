@@ -43,7 +43,7 @@ speed_sweden() {
     speed_test 'http://bck-speedtest-1.tele2.net/1GB.zip' 'Tele2, Göteborg, SE'
     speed_test 'http://hgd-speedtest-1.tele2.net/1GB.zip' 'Tele2, Stockholm, SE'
     speed_test 'http://speedtest.bahnhof.net/100M.zip' 'Bahnhof, Malmö, SE'
-    speed_test 'http://mirror.sth.hosthatch.com/100mb.bin' 'Hosthatch, Stockholm, SE'
+    speed_test 'http://lg.sto.hosthatch.com/1000MB.test' 'Hosthatch, Stockholm, SE'
     speed_test 'http://fbg-speedtest1.glesys.net/100M.zip' 'Glesys, Falkenberg, SE'
     #speed_test 'https://speedtest.ownit.se/1GB.test' 'Ownit, ???, SE'
 }
