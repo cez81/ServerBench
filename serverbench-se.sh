@@ -40,9 +40,9 @@ speed_test_v6() {
 }
 
 speed_sweden() {
-    speed_test 'http://bck-speedtest-1.tele2.net/100MB.zip' 'Tele2, Göteborg, SE'
-    speed_test 'http://kst5-speedtest-1.tele2.net/100MB.zip' 'Tele2, Kista, SE'
-    speed_test 'http://speedtest.bahnhof.net/100M.zip' 'Bahnhof, Malmö, SE'
+    speed_test 'http://bck-speedtest-1.tele2.net/1GB.zip' 'Tele2, Göteborg, SE'
+    speed_test 'http://hgd-speedtest-1.tele2.net/1GB.zip' 'Tele2, Stockholm, SE'
+    speed_test 'http://anycast-svl.bahnhof.net/1000M.zip' 'Bahnhof, Sundsvall, SE'
     speed_test 'http://lg.sto.hosthatch.com/1000MB.test' 'Hosthatch, Stockholm, SE'
     speed_test 'http://fbg-speedtest1.glesys.net/1GB.zip' 'Glesys, Falkenberg, SE'
     speed_test 'https://speedtest.ownit.se/1GB.test' 'Ownit, Stockholm SE'
